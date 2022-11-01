@@ -128,6 +128,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <h1 style={headingStyles}>
         Congratulations
+        <br/>
         <a>https://www.gatsbyjs.com/docs/tutorial/part-2/</a>
         <br />
         <span style={headingAccentStyles}>— you just made a Gatsby site! 🎉🎉🎉</span>
